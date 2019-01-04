@@ -103,14 +103,15 @@
 **视频：**  
 	2.1 回归:[Regression](https://www.bilibili.com/video/av10590361/?p=3)  
 	2.2 回归 Demo:[Demo](https://www.bilibili.com/video/av9912938/?p=4)  
-
+	
 **第3节： 错误分析**  
 **课件：**[lecture3]()  
 **笔记：**[lecture3-note3]()  
-**视频：**    
+**视频：**  
 	2.3 错误从哪里来[Error Handle](https://www.bilibili.com/video/av10590361/?p=5)  
+	
 **作业 Week2：**:  
-  [PM2.5 预测](https://ntumlta.github.io/2017fall-ml-hw1/)  
+  [待定](https://ntumlta.github.io/2017fall-ml-hw1/)  
 ---------------------------------------------------------
 ### week 3   
 **第4节： 梯度下降(Gradient Descent )**  
@@ -120,7 +121,6 @@
 	3.1梯度下降:[Gradient Descent](https://www.bilibili.com/video/av10590361/?p=6)  
 	3.2梯度下降Demo1:[Gradient Descent Demo1](https://www.bilibili.com/video/av10590361/?p=6)  
 	3.3梯度下降Demo2:[Gradient Descent Demo2](https://www.bilibili.com/video/av10590361/?p=6)  
-	3.4矩阵乘法:[Matrix Matrix Multiplication](https://www.bilibili.com/video/av9912938/?p=16)  
 
 **作业 Week3：**:  
   [PM2.5 预测](https://ntumlta.github.io/2017fall-ml-hw1/)  
@@ -152,7 +152,7 @@
 	5.1 度学习简介:[Introduction to Deep learning](https://www.bilibili.com/video/av10590361/?p=13)  
 	5.2 反向传播算法：[Back Prppagation](https://www.bilibili.com/video/av10590361/?p=14))  
 
-**第8节：“Hello world” of Deep learning*  
+**第8节：“Hello world” of Deep learning** 
 **课件：**[lecture8]()  
 **笔记：**[lecture8-note8]()  
 **视频：**                                  
@@ -160,7 +160,7 @@
 	5.2  Keras Demo：[Demo](https://www.bilibili.com/video/av10590361/?p=16)  
 	5.2  Keras Demo1：[Demo1](https://www.bilibili.com/video/av10590361/?p=17)  
 	
-**第9节：深度学习技巧 Deep learning tips*  
+**第9节：深度学习技巧 Deep learning tips**  
 **课件：**[lecture9]()  
 **笔记：**[lecture8-note9]()  
 **视频：**                                  
@@ -170,63 +170,11 @@
 **作业 Week5：**: 图片分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html))  
 
 ---------------------------------------------------------
-   
 
 ### Week 6  
-**第九节1：神经网络的学习(Neural Networks: Learning1)**  
-**课件：**[lecture9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture9.pdf)  
-**笔记：**[lecture9-note9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture9.pdf)   
-**视频：**   
-	9.1代价函数:[Cost Function](https://www.bilibili.com/video/av9912938/?p=51)  
-	9.2反向传播算法:[Backpropagation Algorithm](https://www.bilibili.com/video/av9912938/?p=52)  
-	9.3反向传播算法的直观理解:[Backpropagation Intuition](https://www.bilibili.com/video/av9912938/?p=53)  
-
-**第九节2：神经网络的学习(Neural Networks: Learning2)**  
-**课件：**[lecture9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture9.pdf)  
-**笔记：**[lecture9-note9](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture9.pdf)  
-**视频：**   
-	9.4实现注意：展开参数:[Implementation Note_ Unrolling Parameters](https://www.bilibili.com/video/av9912938/?p=54)  
-	9.5梯度检验:[Gradient Checking](https://www.bilibili.com/video/av9912938/?p=55)  
-	9.6随机初始化:[Random Initialization](https://www.bilibili.com/video/av9912938/?p=56)  
-	9.7综合起来:[Putting It Together](https://www.bilibili.com/video/av9912938/?p=57)  
-	9.8自主驾驶:[Autonomous Driving](https://www.bilibili.com/video/av9912938/?p=58)  
-
-**作业 Week6：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex4/ex4.pdf)  
-1. 神经网络实现 Neural Networks Learning  
-
----------------------------------------------------------
-
-### Week 7  
-**第十节：应用机器学习的建议(Advice for Applying Machine Learning)**  
-**课件：**[lecture10](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture10.pdf)  
-**笔记：**[lecture10-note10](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture10.pdf)  
-**视频：**  
-	10.1决定下一步做什么:[Deciding What to Try Next](https://www.bilibili.com/video/av9912938/?p=59)  
-	10.2评估一个假设:[Evaluating a Hypothesis](https://www.bilibili.com/video/av9912938/?p=60)  
-	10.3模型选择和交叉验证集:[Model Selection and Train_Validation_Test Sets](https://www.bilibili.com/video/av9912938/?p=61)  
-	10.4诊断偏差和方差:[Diagnosing Bias vs. Variance](https://www.bilibili.com/video/av9912938/?p=62)  
-	10.5正则化和偏差/方差:[Regularization and Bias_Variance](https://www.bilibili.com/video/av9912938/?p=63)  
-	10.6学习曲线:[Learning Curves](https://www.bilibili.com/video/av9912938/?p=64)  
-	10.7决定下一步做什么:[Deciding What to Do Next Revisited](https://www.bilibili.com/video/av9912938/?p=65)                                        
-**第十一节：  机器学习系统的设计(Machine Learning System Design)**  
-**课件：**[lecture11](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture11.pdf)  
-**笔记：**[lecture11-note11](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture11.pdf)  
-**视频：**  
-	11.1首先要做什么:[Prioritizing What to Work On](https://www.bilibili.com/video/av9912938/?p=66)  
-	11.2误差分析:[Error Analysis](https://www.bilibili.com/video/av9912938/?p=67)  
-	11.3类偏斜的误差度量:[Error Metrics for Skewed Classes](https://www.bilibili.com/video/av9912938/?p=68)  
-	11.4查准率和查全率之间的权衡:[Trading Off Precision and Recall](https://www.bilibili.com/video/av9912938/?p=69)  
-	11.5机器学习的数据:[Data For Machine Learning](https://www.bilibili.com/video/av9912938/?p=70)  
-**作业 Week7：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex5/ex5.pdf)  
-1. 正则线性回归 Regularized Linear Regression  
-2. 偏移和方差 Bias vs. Variance  
-
----------------------------------------------------------
-
-### Week 8  
-**第十二节：支持向量机(Support Vector Machines)**  
-**课件：**[lecture12](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture12.pdf)  
-**笔记：**[lecture12-note12](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture12.pdf)  
+**第10节：卷积(Support Vector Machines)**  （2016fall）
+**课件：**[lecture10]()  
+**笔记：**[lecture10-note10]()  
 **视频：**  
 	12.1优化目标:[Optimization Objective](https://www.bilibili.com/video/av9912938/?p=71)  
 	12.2大边界的直观理解:[Large Margin Intuition](https://www.bilibili.com/video/av9912938/?p=72)  
