@@ -31,15 +31,15 @@
 李宏毅老师的机器学习和深度学习系列课程，是中文世界中最好！课程中有深入浅出的讲解和幽默生动的比喻（还有口袋妖怪哦）。关键一切都是中文的！
 
 
-本课程李宏毅老师的机器学习核心内容带学，作业讲解。主题包括：
+本课程李宏毅老师的机器学习核心内容带学，作业讲解。主要包括：
 
-（一）监督学习（回归、分类、BP）
+（一）监督学习（回归、分类、BP反向传播、梯度下降）
 
 （二）无监督学习（AutoEncoder、Neighbor Embedding、Deep Generative Model）
 
-（三）迁移学习 
+（三）迁移学习 （Transfer learning）
 
- (四) 结构化学习
+ (四) 结构化学习（Structure learning）
  
 本课程每课都有课件，每周都有配套作业代码，十分推荐推荐学习。
 
@@ -78,16 +78,16 @@
 #### 6.作业提交指南：  
  训练营的作业自检系统已经正式上线啦！只需将作业发送到训练营公共邮箱即可，知识星球以打卡为主，不用提交作业。以下为注意事项:  
 <0> 课程资料：[链接]() 密码：
-<1> 训练营代码公共邮箱：cs229@163.com  
+<1> 训练营代码公共邮箱：NTU-ML@xx.com  
 <2> [查询自己成绩:]()  
-<3> 将每周作业压缩成zip文件，文件名为“学号+作业编号”，例如："CS229-010037-01.zip"  
+<3> 将每周作业压缩成zip文件，文件名为“学号+作业编号”，例如："NTU-ML-010037-01.zip"  
 <4> 注意不要改变作业中的"方法名","类名"不然会检测失败！！ 
 
 ## 7.学习安排
 ### week 1  
 **知识点复习**  
 **学习组队**  
-**第一节： 引言(Introduction)**  
+**第1节： 引言(Introduction)**  
 **课件：**[lecture1](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture1.pdf)  
 **笔记：**[lecture1-note1](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture1.pdf)  
 **视频：**  
@@ -97,105 +97,77 @@
 制定自己的学习计划，开通自己的学习博客，注册自己的github  
 
 ### week 2 
-**第三节： 回归问题**  
+**第2节： 回归问题**  
 **课件：**[lecture2]()  
 **笔记：**[lecture2-note2]()  
 **视频：**  
 	2.1 回归:[Regression](https://www.bilibili.com/video/av10590361/?p=3)  
 	2.2 回归 Demo:[Demo](https://www.bilibili.com/video/av9912938/?p=4)  
 
-**第四节： 错误分析**  
+**第3节： 错误分析**  
 **课件：**[lecture3]()  
 **笔记：**[lecture3-note3]()  
 **视频：**    
-		2.3 错误从哪里来[Error Handle](https://www.bilibili.com/video/av10590361/?p=5)  
+	2.3 错误从哪里来[Error Handle](https://www.bilibili.com/video/av10590361/?p=5)  
 **作业 Week2：**:  
-
+  [PM2.5 预测](https://ntumlta.github.io/2017fall-ml-hw1/)  
 ---------------------------------------------------------
 ### week 3   
-**第三节： 线性代数回顾(Linear Algebra Review)**  
-**课件：**[lecture3](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture3.pdf)  
-**笔记：**[lecture3-note3](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture3.pdf)  
+**第4节： 梯度下降(Gradient Descent )**  
+**课件：**[lecture4]()  
+**笔记：**[lecture4-note4]()  
 **视频：**  
-	3.1矩阵和向量:[Matrices and Vectors](https://www.bilibili.com/video/av9912938/?p=13)  
-	3.2加法和标量乘法:[Addition and Scalar Multiplication](https://www.bilibili.com/video/av9912938/?p=14)  
-	3.3矩阵向量乘法:[Matrix Vector Multiplication](https://www.bilibili.com/video/av9912938/?p=15)  
+	3.1梯度下降:[Gradient Descent](https://www.bilibili.com/video/av10590361/?p=6)  
+	3.2梯度下降Demo1:[Gradient Descent Demo1](https://www.bilibili.com/video/av10590361/?p=6)  
+	3.3梯度下降Demo2:[Gradient Descent Demo2](https://www.bilibili.com/video/av10590361/?p=6)  
 	3.4矩阵乘法:[Matrix Matrix Multiplication](https://www.bilibili.com/video/av9912938/?p=16)  
-	3.5矩阵乘法的性质:[Matrix Multiplication Properties](https://www.bilibili.com/video/av9912938/?p=17)  
-	3.6逆、转置:[Inverse and Transpose](https://www.bilibili.com/video/av9912938/?p=18)  
-	
-**第四节： 多变量线性回归(Linear Regression with Multiple Variables)**  
-**课件：**[lecture4](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture4.pdf)  
-**笔记：**[lecture4-note4](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture4.pdf)  
-**视频：**  
-	4.1多维特征:[Multiple Features](https://www.bilibili.com/video/av9912938/?p=19)  
-	4.2多变量梯度下降:[Gradient Descent for Multiple Variables](https://www.bilibili.com/video/av9912938/?p=20)  
-	4.3梯度下降法实践1-特征缩放:[Gradient Descent in Practice I - Feature Scaling](https://www.bilibili.com/video/av9912938/?p=21)  
-	4.4梯度下降法实践2-学习率:[Gradient Descent in Practice II - Learning Rate](https://www.bilibili.com/video/av9912938/?p=22)  
-	4.5特征和多项式回归:[Features and Polynomial Regression](https://www.bilibili.com/video/av9912938/?p=23)  
-	4.6正规方程:[Normal Equation](https://www.bilibili.com/video/av9912938/?p=24)  
-	4.7正规方程及不可逆性（选修）:[Normal Equation Noninvertibility (Optional)](https://www.bilibili.com/video/av9912938/?p=25)  
-**作业 Week3：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf)  
-1.线性回归 Linear Regression  
-2.多远线性回归 Linear Regression with multiple variables
+
+**作业 Week3：**:  
+  [PM2.5 预测](https://ntumlta.github.io/2017fall-ml-hw1/)  
 
 ---------------------------------------------------------
 
 ### Week 4  
-**第五节：Octave教程(Octave Tutorial 选修)（有Python基础可以忽略）**  
-**课件：**[lecture5](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture5.pdf)  
-**笔记：**[lecture5-note5](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture5.pdf)  
+**第5节：分类：概率生成模型（Classification：Probabilistic Generative Model）**  
+**课件：**[lecture5]()  
+**笔记：**[lecture5-note5]()  
 **视频：**  
-	5.1基本操作:[Working on and Submitting Programming Exercises](https://www.bilibili.com/video/av9912938/?p=26)  
-	5.2移动数据:[Basic Operations](https://www.bilibili.com/video/av9912938/?p=27)  
-	5.3计算数据:[Moving Data Around](https://www.bilibili.com/video/av9912938/?p=28)  
-	5.4绘图数据:[Computing on Data](https://www.bilibili.com/video/av9912938/?p=29)  
-	5.5控制语句：for，while，if语句:[Plotting Data](https://www.bilibili.com/video/av9912938/?p=30)  
-	5.6向量化88:[Control Statements](https://www.bilibili.com/video/av9912938/?p=31)  
-	5.7工作和提交的编程练习:[Vectorization](https://www.bilibili.com/video/av9912938/?p=32)  
-
-**第六节：逻辑回归(Logistic Regression)**  
-**课件：**[lecture6](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture6.pdf)  
-**笔记：**[lecture6-note6](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture6.pdf)  
+	4.1分类：概率生成模型:[Classification：Probabilistic Generative Model](https://www.bilibili.com/video/av10590361/?p=10)  
+	
+**第6节：分类：逻辑回归（Logistic Regression）**  
+**课件：**[lecture6]()  
+**笔记：**[lecture6-note6]()  
 **视频：**  
-	6.1分类问题:[Classification](https://www.bilibili.com/video/av9912938/?p=33)  
-	6.2假说表示:[Hypothesis Representation](https://www.bilibili.com/video/av9912938/?p=34)  
-	6.3判定边界:[Decision Boundary](https://www.bilibili.com/video/av9912938/?p=35)  
-	6.4代价函数:[Cost Function](https://www.bilibili.com/video/av9912938/?p=36)  
-	6.5简化的成本函数和梯度下降:[Simplified Cost Function and Gradient Descent](https://www.bilibili.com/video/av9912938/?p=37)  
-	6.6高级优化:[Advanced Optimization](https://www.bilibili.com/video/av9912938/?p=38)  
-	6.7多类别分类：一对多:[Multiclass Classification_ One-vs-all](https://www.bilibili.com/video/av9912938/?p=39)  
+	4.2分类：逻辑回归:[Logistic Regression](https://www.bilibili.com/video/av10590361/?p=11)   
 
-**作业 Week4：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex2/ex2.pdf)  
-1. 逻辑回归 Logistic Regression
-2. 带有正则项的逻辑回归 Logistic Regression with Regularization
+**作业 Week4：**: [ Winner or Loser](https://ntumlta.github.io/2017fall-ml-hw2)  
 
 ---------------------------------------------------------
 
 ### Week 5     
-**第七节：正则化(Regularization)**  
-**课件：**[lecture7](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture7.pdf)  
-**笔记：**[lecture7-note7](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture7.pdf)  
+**第7节：深度学习简介(Introduction to Deep learning)**  
+**课件：**[lecture7]()  
+**笔记：**[lecture7-note7]()  
 **视频：**                                  
-	7.1过拟合的问题:[The Problem of Overfitting](https://www.bilibili.com/video/av9912938/?p=40)  
-	7.2代价函数:[Cost Function](https://www.bilibili.com/video/av9912938/?p=41)  
-	7.3正则化线性回归:[Regularized Linear Regression](https://www.bilibili.com/video/av9912938/?p=42)  
-	7.4正则化的逻辑回归模型:[Regularized Logistic Regression](https://www.bilibili.com/video/av9912938/?p=43)  
+	5.1 度学习简介:[Introduction to Deep learning](https://www.bilibili.com/video/av10590361/?p=13)  
+	5.2 反向传播算法：[Back Prppagation](https://www.bilibili.com/video/av10590361/?p=14))  
 
-**第八节：神经网络：表述(Neural Networks: Representation)**  
-**课件：**[lecture8](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture8.pdf)  
-**笔记：**[lecture8-note8](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture8.pdf)  
-**视频：**   
-	8.1非线性假设:[Non-linear Hypotheses](https://www.bilibili.com/video/av9912938/?p=44)  
-	8.2神经元和大脑:[Neurons and the Brain](https://www.bilibili.com/video/av9912938/?p=45)  
-	8.3模型表示1:[Model Representation I](https://www.bilibili.com/video/av9912938/?p=46)  
-	8.4模型表示2:[Model Representation II](https://www.bilibili.com/video/av9912938/?p=47)  
-	8.5样本和直观理解1:[Examples and Intuitions I](https://www.bilibili.com/video/av9912938/?p=48)  
-	8.6样本和直观理解II:[Examples and Intuitions II](https://www.bilibili.com/video/av9912938/?p=49)  
-	8.7多类分类:[Multiclass Classification](https://www.bilibili.com/video/av9912938/?p=50)  
-**作业 Week5：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex3/ex3.pdf)  
-1. 多元分类 Multiclass Classification
-2. 神经网络预测函数 Neural Networks Prediction fuction
+**第8节：“Hello world” of Deep learning*  
+**课件：**[lecture8]()  
+**笔记：**[lecture8-note8]()  
+**视频：**                                  
+	5.1 [DeepLearning Demo](https://www.bilibili.com/video/av10590361/?p=15)  
+	5.2  Keras Demo：[Demo](https://www.bilibili.com/video/av10590361/?p=16)  
+	5.2  Keras Demo1：[Demo1](https://www.bilibili.com/video/av10590361/?p=17)  
+	
+**第9节：深度学习技巧 Deep learning tips*  
+**课件：**[lecture9]()  
+**笔记：**[lecture8-note9]()  
+**视频：**                                  
+	5.3 [DeepLearning tips](https://www.bilibili.com/video/av10590361/?p=18)  
+	5.4  Keras Demo2：[Demo2](https://www.bilibili.com/video/av10590361/?p=19)  
+		
+**作业 Week5：**: 图片分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html))  
 
 ---------------------------------------------------------
    
