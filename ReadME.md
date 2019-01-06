@@ -21,14 +21,15 @@
 6. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
 7. [机器学习代码修行100天](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
 8. [吴恩达机器学习新书：machine learning yearning](https://github.com/AcceptedDoge/machine-learning-yearning-cn)  
-9. [本人博客(深度学习专题)](https://blog.csdn.net/column/details/28693.html)  
-10. [自上而下的学习路线: 软件工程师的机器学习](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  
+9. [本人专栏(机器学习专题)](https://blog.csdn.net/dukuku5038/column/info/28363)  
+10.[本人博客(深度学习专题)](https://blog.csdn.net/column/details/28693.html)  
+11. [自上而下的学习路线: 软件工程师的机器学习](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  
 
 
 ## 1. 前言 
 ### 中文世界中最好的机器学习课程！
 
-李宏毅老师的机器学习和深度学习系列课程，是中文世界中最好！课程中有深入浅出的讲解和幽默生动的比喻（还有口袋妖怪哦）。关键一切都是中文的！
+李宏毅老师的机器学习和深度学习系列课程，是中文世界中最好！课程中有深入浅出的讲解和幽默生动的比喻（还有口袋妖怪哦）。关键一切都是中文的！（除了课件^_^）
 
 
 本课程李宏毅老师的机器学习核心内容带学，作业讲解。主要包括：
@@ -167,126 +168,55 @@
 	5.3 [DeepLearning tips](https://www.bilibili.com/video/av10590361/?p=18)  
 	5.4  Keras Demo2：[Demo2](https://www.bilibili.com/video/av10590361/?p=19)  
 		
-**作业 Week5：**: 图片分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html))  
+**作业 Week5：**: 待定
 
 ---------------------------------------------------------
 
 ### Week 6  
-**第10节：卷积(Support Vector Machines)**  （2016fall）
+**第10节：卷积神经网络(CNN)**
 **课件：**[lecture10]()  
 **笔记：**[lecture10-note10]()  
 **视频：**  
-	12.1优化目标:[Optimization Objective](https://www.bilibili.com/video/av9912938/?p=71)  
-	12.2大边界的直观理解:[Large Margin Intuition](https://www.bilibili.com/video/av9912938/?p=72)  
-	12.3数学背后的大边界分类（选修）:[Mathematics Behind Large Margin Classification (Optional)](https://www.bilibili.com/video/av9912938/?p=73)  
-	12.4核函数1:[Kernels I](https://www.bilibili.com/video/av9912938/?p=74)  
-	12.5核函数2:[Kernels II](https://www.bilibili.com/video/av9912938/?p=75)  
-	12.6使用支持向量机:[Using An SVM](https://www.bilibili.com/video/av9912938/?p=76)  
+	6.1 卷积神经网络:[CNN](https://www.bilibili.com/video/av10590361/?p=21)  
+	
+**第11节：为什么要深度学习（Why Deep)**
+**课件：**[lecture11]()  
+**笔记：**[lecture11-note11]()  
+**视频：**  
+	6.2 为什么要深度学习:[CNN](https://www.bilibili.com/video/av10590361/?p=22)  
 
-**第十三节：聚类(Clustering)**  
-**课件：**[lecture13](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture13.pdf)  
-**笔记：**[lecture13-note13](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture13.pdf)  
-**视频：**   
-	13.1无监督学习：简介:[Unsupervised Learning_ Introduction](https://www.bilibili.com/video/av9912938/?p=77)  
-	13.2K-均值算法:[K-Means Algorithm](https://www.bilibili.com/video/av9912938/?p=78)  
-	13.3优化目标:[Optimization Objective](https://www.bilibili.com/video/av9912938/?p=79)  
-	13.4随机初始化:[Random Initialization](https://www.bilibili.com/video/av9912938/?p=80)  
-	13.5选择聚类数:[Choosing the Number of Clusters](https://www.bilibili.com/video/av9912938/?p=81)  
-**作业 Week8：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex6/ex6.pdf)  
-1. SVM实现
-2. 垃圾邮件分类 Spam email Classifier  
+**作业 Week6：**: 图片分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html))  
 
 ---------------------------------------------------------
+### Week 7 
+**第12节：循环神经网络(RNN)**
+**课件：**[lecture12]()  
+**笔记：**[lecture12-note12]()  
+**视频：**  
+	7.1 循环神经网络:[RNN](https://www.bilibili.com/video/av10590361/?p=36)  
+	
+**第13节：循环神经网络（LSTM、GRU)**
+**课件：**[lecture13]()  
+**笔记：**[lecture13-note13]()  
+**视频：**  
+	6.2 循环神经网络:[LSTM，GRU](https://www.bilibili.com/video/av10590361/?p=37)  
 
-### Week 9
-**第十四节：降维(Dimensionality Reduction)**  
-**课件：**[lecture14](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture14.pdf)  
-**笔记：**[lecture14-note14](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture14.pdf)  
-**视频：**     
-	14.1动机一：数据压缩:[Motivation I_ Data Compression](https://www.bilibili.com/video/av9912938/?p=82)  
-	14.2动机二：数据可视化:[Motivation II_ Visualization](https://www.bilibili.com/video/av9912938/?p=83)  
-	14.3主成分分析问题:[Principal Component Analysis Problem Formulation](https://www.bilibili.com/video/av9912938/?p=84)  
-	14.4主成分分析算法:[Principal Component Analysis Algorithm](https://www.bilibili.com/video/av9912938/?p=85)  
-	14.5选择主成分的数量:[Choosing the Number of Principal Components](https://www.bilibili.com/video/av9912938/?p=86)  
-	14.6重建的压缩表示:[Reconstruction from Compressed Representation](https://www.bilibili.com/video/av9912938/?p=87)  
-	14.7主成分分析法的应用建议:[Advice for Applying PCA](https://www.bilibili.com/video/av9912938/?p=88)  
-
-**第十五节：异常检测(Anomaly Detection)**  
-**课件：**[lecture15](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture15.pdf)  
-**笔记：**[lecture15-note15](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture15.pdf)  
-**视频：**   
-	15.1问题的动机:[Problem Motivation](https://www.bilibili.com/video/av9912938/?p=89)  
-	15.2高斯分布:[Gaussian Distribution](https://www.bilibili.com/video/av9912938/?p=90)  
-	15.3算法:[Algorithm](https://www.bilibili.com/video/av9912938/?p=91)  
-	15.4开发和评价一个异常检测系统:[Developing and Evaluating an Anomaly Detection System](https://www.bilibili.com/video/av9912938/?p=92)  
-	15.5异常检测与监督学习对比:[Anomaly Detection vs. Supervised Learning](https://www.bilibili.com/video/av9912938/?p=93)  
-	15.6选择特征:[Choosing What Features to Use](https://www.bilibili.com/video/av9912938/?p=94)  
-	15.7多元高斯分布（选修）:[Multivariate Gaussian Distribution (Optional)](https://www.bilibili.com/video/av9912938/?p=95)  
-	15.8使用多元高斯分布进行异常检测（选修）:[Anomaly Detection using the Multivariate Gaussian Distribution (Optiona](https://www.bilibili.com/video/av9912938/?p=96)  
-**作业 Week9：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex7/ex7.pdf)  
-1. K-means 聚类算法 Clustering  
-2. PCA 主成分析 Principal Component Analysis  
+**作业 Week7：**: 文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4)) 
 
 ---------------------------------------------------------
-
-
-### Week 10  
-**第十六节：推荐系统(Recommender Systems)**  
-**课件：**[lecture16](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture16.pdf)  
-**笔记：**[lecture16-note16](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture16.pdf)  
+### Week 8 
+**第14节：迁移学习**
+**课件：**[lecture14]()  
+**笔记：**[lecture14-note14]()  
 **视频：**  
-	16.1问题形式化:[Problem Formulation](https://www.bilibili.com/video/av9912938/?p=97)  
-	16.2基于内容的推荐系统:[Content Based Recommendations](https://www.bilibili.com/video/av9912938/?p=98)  
-	16.3协同过滤:[Collaborative Filtering](https://www.bilibili.com/video/av9912938/?p=99)  
-	16.4协同过滤算法:[Collaborative Filtering Algorithm](https://www.bilibili.com/video/av9912938/?p=100)  
-	16.5向量化：低秩矩阵分解:[Vectorization_ Low Rank Matrix Factorization](https://www.bilibili.com/video/av9912938/?p=101)  
-	16.6推行工作上的细节：均值归一化:[Implementational Detail_ Mean Normalization](https://www.bilibili.com/video/av9912938/?p=102)  
-
-**第十七节：大规模机器学习(Large Scale Machine Learning)**  
-**课件：**[lecture17](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture17.pdf)  
-**笔记：**[lecture17-note17](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture17.pdf))  
+	8.1 迁移学习:[Transfer learning](https://www.bilibili.com/video/av10590361/?p=30)  
+	
+**第15节：强化学习（Reinforcement learning)**
+**课件：**[lecture15]()  
+**笔记：**[lecture15-note15]()  
 **视频：**  
-	17.1大型数据集的学习:[Learning With Large Datasets](https://www.bilibili.com/video/av9912938/?p=103)  
-	17.2随机梯度下降法:[Stochastic Gradient Descent](https://www.bilibili.com/video/av9912938/?p=104)  
-	17.3小批量梯度下降:[Mini-Batch Gradient Descent](https://www.bilibili.com/video/av9912938/?p=105)  
-	17.4随机梯度下降收敛:[Stochastic Gradient Descent Convergence](https://www.bilibili.com/video/av9912938/?p=106)  
-	17.5在线学习:[Online Learning](https://www.bilibili.com/video/av9912938/?p=107)  
-	17.6映射化简和数据并行:[Map Reduce and Data Parallelism](https://www.bilibili.com/video/av9912938/?p=108)  
+	8.2 强化学习:[Reinforcement learning](https://www.bilibili.com/video/av10590361/?p=39)  
 
-**作业 Week10：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex8/ex8.pdf)  
-  
-1. 异常检测 Anomaly Detection    
-
----------------------------------------------------------
-
-
-### Week 11  
-**第十八节1： 应用实例：图片文字识别(Application Example: Photo OCR)**  
-**课件：**[lecture18](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture18.pdf)  
-**笔记：**[lecture18-note18](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture18.pdf)  
-**视频：**  
-	18.1问题描述和流程图:[Problem Description and Pipeline](https://www.bilibili.com/video/av9912938/?p=109)  
-	18.2滑动窗口:[Sliding Windows](https://www.bilibili.com/video/av9912938/?p=110)   
-**第十八节2： 应用实例：图片文字识别(Application Example: Photo OCR)**  
-**课件：**[lecture18](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture18.pdf)  
-**笔记：**[lecture1-note18](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture18.pdf))  
-**视频：**   
-	18.3获取大量数据和人工数据:[Getting Lots of Data and Artificial Data](https://www.bilibili.com/video/av9912938/?p=111)  
-	18.4上限分析：哪部分管道的接下去做:[Ceiling Analysis_ What Part of the Pipeline to Work on Next](https://www.bilibili.com/video/av9912938/?p=112)  
-
-
-**作业 Week11：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex8/ex8.pdf)  
-2.推荐系统实现 Recommender Systems  
-**课程比赛：比赛介绍: Kaggle 比赛： 泰坦尼克 Titanic**  
-
----------------------------------------------------------
-
-### Week 12
-**第十九节：总结(Conclusion)**  
-**视频：**  
-19.1总结和致谢:[Summary and Thank You](https://www.bilibili.com/video/av9912938/?p=113)  
-**课程比赛：比赛: **  
- Kaggle 比赛： 泰坦尼克 Titanic
- 
+**作业 Week8：**: 文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4)) 
  
  ---------------------------------------------------------
