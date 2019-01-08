@@ -21,10 +21,9 @@
 6. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
 7. [机器学习代码修行100天](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
 8. [吴恩达机器学习新书：machine learning yearning](https://github.com/AcceptedDoge/machine-learning-yearning-cn)  
-9. [本人专栏(机器学习专题)](https://blog.csdn.net/dukuku5038/column/info/28363)  
-10.[本人博客(深度学习专题)](https://blog.csdn.net/column/details/28693.html)  
-11. [自上而下的学习路线: 软件工程师的机器学习](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  
-
+9. [Dr.Wu 专栏(机器学习专题)](https://blog.csdn.net/dukuku5038/column/info/28363)  
+10. [Dr.Wu 专栏(深度学习专题)](https://blog.csdn.net/column/details/28693.html)  
+11. [自上而下的学习路线: 软件工程师的机器学习)](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  
 
 ## 1. 前言 
 ### 中文世界中最好的机器学习课程！
@@ -67,7 +66,7 @@
 - 《机器学习课》邹博  
 
 ## 5. 学习安排
-本课程需要11周共18节课，
+本课程需要8周共15节课，
 每周具体时间划分为4个部分:  
 - 1部分安排周一到周二  
 - 2部分安排在周四到周五  
@@ -86,10 +85,12 @@
 
 ## 7.学习安排
 ### week 1  
+**学习准备**  
 **知识点复习**  
 **学习组队**  
+
 **第1节： 引言(Introduction)**  
-**课件：**[lecture1](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture%20/Lecture1.pdf)  
+**课件：**[lecture1]()  
 **笔记：**[lecture1-note1](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Course/lecture-notes/lecture1.pdf)  
 **视频：**  
 	1.1 欢迎:[Welcome to Machine Learning](https://www.bilibili.com/video/av10590361/?p=1)  
@@ -112,7 +113,7 @@
 	2.3 错误从哪里来[Error Handle](https://www.bilibili.com/video/av10590361/?p=5)  
 	
 **作业 Week2：**:  
-  [待定](https://ntumlta.github.io/2017fall-ml-hw1/)  
+  [线性回归（纯python是实现）](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf)  
 ---------------------------------------------------------
 ### week 3   
 **第4节： 梯度下降(Gradient Descent )**  
@@ -141,10 +142,9 @@
 **视频：**  
 	4.2分类：逻辑回归:[Logistic Regression](https://www.bilibili.com/video/av10590361/?p=11)   
 
-**作业 Week4：**: [ Winner or Loser](https://ntumlta.github.io/2017fall-ml-hw2)  
+**作业 Week4：**: 收入预测[Winner or Loser](https://ntumlta.github.io/2017fall-ml-hw2)  
 
 ---------------------------------------------------------
-
 ### Week 5     
 **第7节：深度学习简介(Introduction to Deep learning)**  
 **课件：**[lecture7]()  
@@ -168,7 +168,7 @@
 	5.3 [DeepLearning tips](https://www.bilibili.com/video/av10590361/?p=18)  
 	5.4  Keras Demo2：[Demo2](https://www.bilibili.com/video/av10590361/?p=19)  
 		
-**作业 Week5：**: 待定
+**作业 Week5：**: [Keras实现手写数字识别]()
 
 ---------------------------------------------------------
 
@@ -185,7 +185,7 @@
 **视频：**  
 	6.2 为什么要深度学习:[CNN](https://www.bilibili.com/video/av10590361/?p=22)  
 
-**作业 Week6：**: 图片分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html))  
+**作业 Week6：**: 面部情绪分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html))  
 
 ---------------------------------------------------------
 ### Week 7 
@@ -201,7 +201,7 @@
 **视频：**  
 	6.2 循环神经网络:[LSTM，GRU](https://www.bilibili.com/video/av10590361/?p=37)  
 
-**作业 Week7：**: 文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4)) 
+**作业 Week7：**: Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4)) 
 
 ---------------------------------------------------------
 ### Week 8 
@@ -217,6 +217,6 @@
 **视频：**  
 	8.2 强化学习:[Reinforcement learning](https://www.bilibili.com/video/av10590361/?p=39)  
 
-**作业 Week8：**: 文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4)) 
+**作业 Week8：**: 小车爬山[Car hill]()  
  
  ---------------------------------------------------------
