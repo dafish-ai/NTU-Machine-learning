@@ -114,9 +114,6 @@
 
 **作业 Week2：**:  
   [线性回归:  纯python是实现](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf/)  
-
-**作业 Week2：**:  
-  [线性回归(纯python是实现)](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf/)  	
 ---------------------------------------------------------
 ### week 3   
 **第4节： 梯度下降(Gradient Descent )**  
