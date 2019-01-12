@@ -122,8 +122,8 @@
 **笔记：**[lecture4-note4](https://blog.csdn.net/dukuku5038/article/details/83608873)  
 **视频：**  
 	3.1梯度下降:[Gradient Descent](https://www.bilibili.com/video/av10590361/?p=6)  
-	3.2梯度下降Demo1:[Gradient Descent Demo1](https://www.bilibili.com/video/av10590361/?p=6)  
-	3.3梯度下降Demo2:[Gradient Descent Demo2](https://www.bilibili.com/video/av10590361/?p=6)  
+	3.2梯度下降Demo1:[Gradient Descent Demo1](https://www.bilibili.com/video/av10590361/?p=7)  
+	3.3梯度下降Demo2:[Gradient Descent Demo2](https://www.bilibili.com/video/av10590361/?p=8)  
 
 **作业 Week3：**:  
   [PM2.5 预测](https://ntumlta.github.io/2017fall-ml-hw1/)  
@@ -169,7 +169,9 @@
 	5.3 [DeepLearning tips](https://www.bilibili.com/video/av10590361/?p=18)  
 	5.4  Keras Demo2：[Demo2](https://www.bilibili.com/video/av10590361/?p=19)  
 		
-**作业 Week5：**: [Keras实现手写数字识别]()
+**作业 Week5：**:  
+（1）深度神经网络[Keras实现手写数字识别]()
+（2）（预习选做）卷积神经网络[Keras实现手写数字识别]()
 
 ---------------------------------------------------------
 
@@ -186,7 +188,8 @@
 **视频：**  
 	6.2 为什么要深度学习:[CNN](https://www.bilibili.com/video/av10590361/?p=22)  
 
-**作业 Week6：**: 面部情绪分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html))  
+**作业 Week6：**:  
+ 面部情绪分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html))  
 
 ---------------------------------------------------------
 ### Week 7 
