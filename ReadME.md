@@ -111,9 +111,8 @@
 **笔记：**[lecture3-note3](https://blog.csdn.net/dukuku5038/article/details/82682855)  
 **视频：**  
 	2.3 错误从哪里来[Error Handle](https://www.bilibili.com/video/av10590361/?p=5)  
-
 **作业 Week2：**:  
-  [线性回归: 纯python是实现](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf/)  
+  [线性回归: 纯python实现](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf/)  
 ---------------------------------------------------------
 ### week 3   
 **第4节： 梯度下降(Gradient Descent )**  
