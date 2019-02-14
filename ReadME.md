@@ -224,6 +224,6 @@
 **视频：**  
 	8.2 强化学习:[Reinforcement learning](https://www.bilibili.com/video/av10590361/?p=39)  
 
-**作业 Week8：**: 小车爬山[Car hill]()  
+**作业 Week8：**: 小车爬山[Car hill](https://gym.openai.com/envs/MountainCarContinuous-v0/)  
 
  ---------------------------------------------------------
