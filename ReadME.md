@@ -225,5 +225,6 @@
 	8.2 强化学习:[Reinforcement learning](https://www.bilibili.com/video/av10590361/?p=39)  
 
 **作业 Week8：**: 小车爬山[Car hill](https://gym.openai.com/envs/MountainCarContinuous-v0/)  
+
 作业简介：这个问题首先由Andrew Moore在他的博士论文中描述，汽车位于一条轨道上，位于两个“山脉”之间。 目标是在右边开山; 然而，汽车的发动机强度不足以在一次通过中攀登山峰。 因此，成功的唯一途径是来回驾驶以增强动力。 如果你花费更少的精力来达到目标，奖励会更大。
  ---------------------------------------------------------
