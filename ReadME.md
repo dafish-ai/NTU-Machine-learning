@@ -6,7 +6,7 @@
 2. [课程笔记](https://blog.csdn.net/dukuku5038/article/details/82253966)  
 3. [课程视频](https://www.bilibili.com/video/av10590361?from=search&seid=8516959386096686045)  
 4. [环境配置Anaconda](https://github.com/learning511/Stanford-Machine-Learning-camp/tree/master)
-5. [作业介绍]() 
+5. [作业介绍]()
 6. 比赛环境推荐使用Linux或者Mac系统，以下环境搭建方法皆适用:  
     [Docker环境配置](https://github.com/ufoym/deepo)  
     [本地环境配置](https://github.com/learning511/cs224n-learning-camp/blob/master/environment.md)
@@ -25,7 +25,7 @@
 10. [Dr.Wu 专栏(深度学习专题)](https://blog.csdn.net/column/details/28693.html)  
 11. [自上而下的学习路线: 软件工程师的机器学习)](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  
 
-## 1. 前言 
+## 1. 前言
 ### 中文世界中最好的机器学习课程！
 
 李宏毅老师的机器学习和深度学习系列课程，是中文世界中最好！课程中有深入浅出的讲解和幽默生动的比喻（还有口袋妖怪哦）。关键一切都是中文的！（除了课件^_^）
@@ -40,7 +40,7 @@
 （三）迁移学习 （Transfer learning）
 
 （四）结构化学习（Structure learning）
- 
+
 本课程每课都有课件，每周都有配套作业代码，十分推荐推荐学习。
 
 ## 2.数学知识复习  
@@ -54,8 +54,8 @@
 - [统计学习方法](http://vdisk.weibo.com/s/vfFpMc1YgPOr)  
 **大学数学课本（从故纸堆里翻出来^_^）**  
 
-### 3.编程工具 
-#### 斯坦福资料： 
+### 3.编程工具
+#### 斯坦福资料：
 - [Python复习](http://web.stanford.edu/class/cs224n/lectures/python-review.pdf)  
 
 #### 4. 中文书籍推荐：
@@ -84,6 +84,9 @@
 <4> 注意不要改变作业中的"方法名","类名"不然会检测失败！~~
 
 ## 7.学习安排
+一、整体学习脑图
+![](assets/markdown-img-paste-2019021415594594.png)
+二、具体学习计划
 ### week 1  
 **学习准备**  
 **知识点复习**  
@@ -98,20 +101,20 @@
 **作业 Week1：**:  
 制定自己的学习计划，开通自己的学习博客，注册自己的github  
 
-### week 2 
+### week 2
 **第2节： 回归问题**  
 **课件：**[lecture2](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/2-Regression.pdf)  
 **笔记：**[lecture2-note2](https://blog.csdn.net/dukuku5038/article/details/82503111)  
 **视频：**  
 	2.1 回归:[Regression](https://www.bilibili.com/video/av10590361/?p=3)  
 	2.2 回归 Demo:[Demo](https://www.bilibili.com/video/av9912938/?p=4)  
-	
+
 **第3节： 错误分析**  
 **课件：**[lecture3](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/3-Bias%20and%20Variance%20(v2).pdf)  
 **笔记：**[lecture3-note3](https://blog.csdn.net/dukuku5038/article/details/82682855)  
 **视频：**  
 	2.3 错误从哪里来[Error Handle](https://www.bilibili.com/video/av10590361/?p=5)  
-	
+
 **作业 Week2：**:  
   纯python[线性回归](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf/)  	
 
@@ -136,7 +139,7 @@
 **笔记：**[lecture5-note5](https://blog.csdn.net/dukuku5038/article/details/82698867)  
 **视频：**  
 	4.1分类：概率生成模型:[Classification：Probabilistic Generative Model](https://www.bilibili.com/video/av10590361/?p=10)  
-	
+
 **第6节：分类：逻辑回归（Logistic Regression）**  
 **课件：**[lecture6](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/6-Logistic%20Regression%20(v3).pdf)  
 **笔记：**[lecture6-note6](https://blog.csdn.net/dukuku5038/article/details/82585523)  
@@ -154,21 +157,21 @@
 	5.1 深度度学习简介:[Introduction to Deep learning](https://www.bilibili.com/video/av10590361/?p=13)  
 	5.2 反向传播算法：[Back Prppagation](https://www.bilibili.com/video/av10590361/?p=14))  
 
-**第8节：“Hello world” of Deep learning** 
+**第8节：“Hello world” of Deep learning**
 **课件：**[lecture8](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/9-keras.pdf)  
 **笔记：**[lecture8-note8](https://blog.csdn.net/dukuku5038/article/details/83721330)  
 **视频：**                                  
 	5.1 [DeepLearning Demo](https://www.bilibili.com/video/av10590361/?p=15)  
 	5.2  Keras Demo：[Demo](https://www.bilibili.com/video/av10590361/?p=16)  
 	5.2  Keras Demo1：[Demo1](https://www.bilibili.com/video/av10590361/?p=17)  
-	
+
 **第9节：深度学习技巧 Deep learning tips**  
 **课件：**[lecture9](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/10-DNN%20tip.pdf)  
 **笔记：**[lecture8-note9](https://blog.csdn.net/dukuku5038/article/details/83680923)  
 **视频：**                                  
 	5.3 [DeepLearning tips](https://www.bilibili.com/video/av10590361/?p=18)  
 	5.4  Keras Demo2：[Demo2](https://www.bilibili.com/video/av10590361/?p=19)  
-		
+
 **作业 Week5：**:  
 （1）深度神经网络[Keras实现手写数字识别]()
 （2）（预习选做）卷积神经网络[Keras实现手写数字识别]()
@@ -181,7 +184,7 @@
 **笔记：**[lecture10-note10](https://blog.csdn.net/dukuku5038/article/details/83735926)  
 **视频：**  
 	6.1 卷积神经网络:[CNN](https://www.bilibili.com/video/av10590361/?p=21)  
-	
+
 **第11节：为什么要深度学习（Why Deep)**
 **课件：**[lecture11](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/12-Why-deep.pdf)  
 **笔记：**[lecture11-note11]()  
@@ -192,29 +195,29 @@
  面部情绪分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html))  
 
 ---------------------------------------------------------
-### Week 7 
+### Week 7
 **第12节：循环神经网络(RNN)**
 **课件：**[lecture12](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/13-RNN%20(v2).pdf)  
 **笔记：**[lecture12-note12](https://blog.csdn.net/dukuku5038/article/details/83830994)  
 **视频：**  
 	7.1 循环神经网络:[RNN](https://www.bilibili.com/video/av10590361/?p=36)  
-	
+
 **第13节：循环神经网络（LSTM、GRU)**
 **课件：**[lecture13](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/13-RNN%20(v2).pdf)  
 **笔记：**[lecture13-note13](https://blog.csdn.net/dukuku5038/article/details/83870172)  
 **视频：**  
 	7.2 循环神经网络:[LSTM，GRU](https://www.bilibili.com/video/av10590361/?p=37)  
 
-**作业 Week7：**: Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4)) 
+**作业 Week7：**: Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4))
 
 ---------------------------------------------------------
-### Week 8 
+### Week 8
 **第14节：迁移学习**
 **课件：**[lecture14](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/16-transfer%20(v3).pdf)  
 **笔记：**[lecture14-note14]()  
 **视频：**  
 	8.1 迁移学习:[Transfer learning](https://www.bilibili.com/video/av10590361/?p=30)  
-	
+
 **第15节：强化学习（Reinforcement learning)**
 **课件：**[lecture15](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/17-RL%20(v6).pdf)  
 **笔记：**[lecture15-note15](https://blog.csdn.net/dukuku5038/article/details/84810898)  
@@ -222,5 +225,5 @@
 	8.2 强化学习:[Reinforcement learning](https://www.bilibili.com/video/av10590361/?p=39)  
 
 **作业 Week8：**: 小车爬山[Car hill]()  
- 
+
  ---------------------------------------------------------
