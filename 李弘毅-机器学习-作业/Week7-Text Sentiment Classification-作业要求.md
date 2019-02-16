@@ -26,6 +26,6 @@
 
 ## 3. 作业拓展
 
-### 2.1 请比较 bag of word 与 RNN 两种不同 model 对于"today is a good day, but it is hot"与"today is hot, but it is a good day"这两句的情绪分数，并讨论造成差异的原因 
+### 3.1 请比较 bag of word 与 RNN 两种不同 model 对于"today is a good day, but it is hot"与"today is hot, but it is a good day"这两句的情绪分数，并讨论造成差异的原因 
 
-### 2.2 请描述在你的semi-supervised方法是如何标记label，并比较有无 semi- supervised training 对准确率的影响。
+### 3.2 请描述在你的semi-supervised方法是如何标记label，并比较有无 semi- supervised training 对准确率的影响。
