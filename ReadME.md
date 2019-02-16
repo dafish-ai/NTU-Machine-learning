@@ -174,7 +174,6 @@
 
 **作业 Week5：**:  
 （1）深度神经网络[Keras实现手写数字识别](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week%205%20-%20%20Keras%E5%AE%9E%E7%8E%B0%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.md)
-（2）（预习选做）卷积神经网络[Keras实现手写数字识别]()
 
 ---------------------------------------------------------
 
