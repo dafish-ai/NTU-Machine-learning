@@ -101,6 +101,8 @@
 **作业 Week1：**:  
 制定自己的学习计划，开通自己的学习博客，注册自己的github  
 
+---
+
 ### week 2
 **第2节： 回归问题**  
 **课件：**[lecture2](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/2-Regression.pdf)  
@@ -119,6 +121,7 @@
   纯python[线性回归](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf/)  	
 
 ---------------------------------------------------------
+
 ### week 3   
 **第4节： 梯度下降(Gradient Descent )**  
 **课件：**[lecture4](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/4-Gradient%20Descent%20(v2).pdf)  
