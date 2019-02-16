@@ -149,9 +149,12 @@
 **视频：**  
 	4.2分类：逻辑回归:[Logistic Regression](https://www.bilibili.com/video/av10590361/?p=11)   
 
-**作业 Week4：**: 收入预测[Winner or Loser](https://ntumlta.github.io/2017fall-ml-hw2)  
+**作业 Week4：**:
+
+收入预测[Winner or Loser](https://ntumlta.github.io/2017fall-ml-hw2)  
 
 ---------------------------------------------------------
+
 ### Week 5     
 **第7节：深度学习简介(Introduction to Deep learning)**  
 **课件：**[lecture7](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/7-DL%20(v2).pdf)  
@@ -194,9 +197,8 @@
 	6.2 为什么要深度学习:[CNN](https://www.bilibili.com/video/av10590361/?p=22)  
 
 **作业 Week6：**:  
- 面部情绪分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html))  
-
- 面部情绪分类[【中文版点击查看】](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week6%20-%20Image%20Sentiment%20Classification%20-%20%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82.md)
+ 【英文】：面部情绪分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html))  
+ 【中文】：面部情绪分类[Image Classification](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week6%20-%20Image%20Sentiment%20Classification%20-%20%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82.md)
 
 ---------------------------------------------------------
 ### Week 7
@@ -216,9 +218,8 @@
 
 Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4))
 
-【英文】Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4)
-
-【中文】 Twitter文本情绪分类[Text Sentiment](李弘毅-机器学习-作业/Week7-Text%20Sentiment%20Classification-作业要求.md)
+【英文】：Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4)<br>
+【中文】：Twitter文本情绪分类[Text Sentiment](李弘毅-机器学习-作业/Week7-Text%20Sentiment%20Classification-作业要求.md)
 
 
 ---------------------------------------------------------
@@ -239,4 +240,12 @@ Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-
 **作业 Week8：**:
 
 【英文】：小车爬山环境简介[MountainCarContinuous-V0](https://gym.openai.com/envs/MountainCarContinuous-v0/)  
-【中文】小车爬坡作业问题[MountainCarContinuous-V0](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week8-MountainCarContinuous-V0%20-%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82%E4%B8%8E%E7%8E%AF%E5%A2%83.md)
+【中文】：小车爬坡作业问题[MountainCarContinuous-V0](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week8-MountainCarContinuous-V0%20-%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82%E4%B8%8E%E7%8E%AF%E5%A2%83.md)
+
+---
+
+## 联系我们：<br>
+官网：[点击进入](http://www.dayufish.com/) <br>
+官方公众号：
+
+![](assets/markdown-img-paste-20190216162623187.png)
