@@ -4,7 +4,9 @@
 在学习机器学习的时候，首当其冲的就是准备一份通用的数据集，方便与其他的算法进行比较。
 
 ### MNIST简介
+
 MNIST数据集原网址：http://yann.lecun.com/exdb/mnist/
+
 ![](assets/markdown-img-paste-20190216133336752.png)
 
 数据集是这样的一些手写数字
