@@ -1,5 +1,9 @@
-## Week6作业 - 面部情绪分类Image Sentiment Classification
+## Week6作业-面部情绪分类Image Sentiment Classification
 本次作业为网络上收集到的人脸表情资料。经过特殊处理，每张图片均是人脸部分占大部分。
+
+如下图，由左至右依次为生气、厌恶、恐惧、高兴、难过、惊讶、中立：
+![](assets/Week6-DisplayData.png)
+
 ### 1. 数据说明
 只需 - 训练集数据文件train.csv
 
@@ -34,6 +38,9 @@ class_names = ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral'
 #### 2.3 通过混淆矩阵分析结果
 代码包含：多分类的confusion matrix，描述哪些class间容易被弄混。
 
+#### 2.4 绘制saliency map可视化结果
+绘制saliency map（CNN模型下）以可视化结果，观察模型在做分类时，focus在图片的哪些部分？
+
 ### 3. 其他可选
-更多作业参见
+作业原链接参见
 [Assignment #3 - Image Sentiment Classification](https://ntumlta.github.io/ML-Assignment3/index.html)
