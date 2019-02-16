@@ -228,7 +228,5 @@
 
 **作业 Week8：**:
 
-小车爬山环境简介[Car hill](https://gym.openai.com/envs/MountainCarContinuous-v0/)  
-小车爬坡作业问题[MountainCarContinuous-V0 ]()
->
-作业简介：这个问题首先由Andrew Moore在他的博士论文中描述，汽车位于一条轨道上，位于两个“山脉”之间。 目标是在右边开山; 然而，汽车的发动机强度不足以在一次通过中攀登山峰。 因此，成功的唯一途径是来回驾驶以增强动力。 如果你花费更少的精力来达到目标，奖励会更大。
+【英文】：小车爬山环境简介[MountainCarContinuous-V0](https://gym.openai.com/envs/MountainCarContinuous-v0/)  
+【中文】小车爬坡作业问题[MountainCarContinuous-V0](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week8-MountainCarContinuous-V0%20-%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82%E4%B8%8E%E7%8E%AF%E5%A2%83.md)
