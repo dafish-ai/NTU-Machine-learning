@@ -10,7 +10,7 @@ MountainCarContinuous-V0
 
 ---
 备注：环境安装部分
-## 安装gym环境
+## 安装gym环境
 
 ### 安装 gym
 在 MacOS 和 Linux 系统下, 安装 gym 很方便, 首先确定你是 python 2.7 或者 python 3.5 版本. 然后在你的 terminal 中复制下面这些. 但是 gym 暂时还不完全支持 Windows, 不过有些虚拟环境已经的到了支持, 想立杆子那个已经支持了. 所以接下来要说的安装方法只有 MacOS 和 Linux 的. Windows 用户的安装方式应该也差不多, 如果 Windows 用户遇到了问题, 欢迎在留言区分享解决的方法.
@@ -54,7 +54,7 @@ brew install cmake boost boost-python sdl2 swig wget
 
 ---
 
-### 小车爬坡细节
+### 小车爬坡细节
 [openai源查看：Github](https://github.com/openai/gym/blob/master/gym/envs/classic_control/continuous_mountain_car.py)
 
 ### 调用方法
