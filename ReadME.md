@@ -13,16 +13,16 @@
 
 
 ## 重要一些的资源：
-1. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
-2. [深度学习斯坦福教程](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
-3. [廖雪峰python3教程](https://www.liaoxuefeng.com/article/001432619295115c918a094d8954bd493037b03d27bf9a9000)
-4. [github教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-5. [莫烦机器学习教程](https://morvanzhou.github.io/tutorials)
-6. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
-7. [机器学习代码修行100天](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
-8. [吴恩达机器学习新书：machine learning yearning](https://github.com/AcceptedDoge/machine-learning-yearning-cn)  
-9. [Dr.Wu 专栏(机器学习专题)](https://blog.csdn.net/dukuku5038/column/info/28363)  
-10. [Dr.Wu 专栏(深度学习专题)](https://blog.csdn.net/column/details/28693.html)  
+1. [Dr.Wu 博客71篇(机器学习、深度学习、强化学习、对抗网络)](https://me.csdn.net/dukuku5038)  
+2. [Dr.Wu 本人知乎](https://www.zhihu.com/people/Dr.Wu/activities)  
+3. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
+4. [深度学习斯坦福教程](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
+5. [廖雪峰python3教程](https://www.liaoxuefeng.com/article/001432619295115c918a094d8954bd493037b03d27bf9a9000)
+6. [github教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+7. [莫烦机器学习教程](https://morvanzhou.github.io/tutorials)
+8. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
+9. [机器学习代码修行100天](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
+10. [吴恩达机器学习新书：machine learning yearning](https://github.com/AcceptedDoge/machine-learning-yearning-cn)  
 11. [自上而下的学习路线: 软件工程师的机器学习)](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  
 
 ## 1. 前言
@@ -99,9 +99,8 @@
 	1.1 欢迎:[Welcome to Machine Learning](https://www.bilibili.com/video/av10590361/?p=1)  
 	1.2 为什么要学习机器学习？:[Why learning ？](https://www.bilibili.com/video/av10590361/?p=2)  
 **作业 Week1：**:  
-制定自己的学习计划，开通自己的学习博客，注册自己的github  
 
----
+制定自己的学习计划，开通自己的学习博客，注册自己的github  
 
 ### week 2
 **第2节： 回归问题**  
@@ -117,11 +116,11 @@
 **视频：**  
 	2.3 错误从哪里来[Error Handle](https://www.bilibili.com/video/av10590361/?p=5)  
 
-**作业 Week2：**:  
-  纯python[线性回归](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf/)  	
+**作业 Week2**:  
+
+  纯python实现[线性回归](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf/)  	
 
 ---------------------------------------------------------
-
 ### week 3   
 **第4节： 梯度下降(Gradient Descent )**  
 **课件：**[lecture4](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/4-Gradient%20Descent%20(v2).pdf)  
@@ -131,7 +130,8 @@
 	3.2梯度下降Demo1:[Gradient Descent Demo1](https://www.bilibili.com/video/av10590361/?p=7)  
 	3.3梯度下降Demo2:[Gradient Descent Demo2](https://www.bilibili.com/video/av10590361/?p=8)  
 
-**作业 Week3：**:  
+**作业 Week3**:  
+
   [PM2.5 预测](https://ntumlta.github.io/2017fall-ml-hw1/)  
 
 ---------------------------------------------------------
@@ -149,7 +149,9 @@
 **视频：**  
 	4.2分类：逻辑回归:[Logistic Regression](https://www.bilibili.com/video/av10590361/?p=11)   
 
-**作业 Week4：**: 收入预测[Winner or Loser](https://ntumlta.github.io/2017fall-ml-hw2)  
+**作业 Week4**: 
+
+收入预测[Winner or Loser](https://ntumlta.github.io/2017fall-ml-hw2)  
 
 ---------------------------------------------------------
 ### Week 5     
@@ -175,8 +177,10 @@
 	5.3 [DeepLearning tips](https://www.bilibili.com/video/av10590361/?p=18)  
 	5.4  Keras Demo2：[Demo2](https://www.bilibili.com/video/av10590361/?p=19)  
 
-**作业 Week5：**:  
+**作业 Week5**:  
+
 （1）深度神经网络[Keras实现手写数字识别](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week%205%20-%20%20Keras%E5%AE%9E%E7%8E%B0%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.md)
+（2）（预习选做）卷积神经网络[Keras实现手写数字识别]()
 
 ---------------------------------------------------------
 
@@ -194,7 +198,8 @@
 	6.2 为什么要深度学习:[CNN](https://www.bilibili.com/video/av10590361/?p=22)  
 
 **作业 Week6：**:  
- 面部情绪分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html))  
+
+ 面部情绪分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html)
 
  面部情绪分类[【中文版点击查看】](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week6%20-%20Image%20Sentiment%20Classification%20-%20%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82.md)
 
@@ -212,14 +217,9 @@
 **视频：**  
 	7.2 循环神经网络:[LSTM，GRU](https://www.bilibili.com/video/av10590361/?p=37)  
 
-**作业 Week7：**:
+**作业 Week7**: 
 
 Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4))
-
-【英文】Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4)
-
-【中文】 Twitter文本情绪分类[Text Sentiment](李弘毅-机器学习-作业/Week7-Text%20Sentiment%20Classification-作业要求.md)
-
 
 ---------------------------------------------------------
 ### Week 8
@@ -237,5 +237,10 @@ Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-
 
 **作业 Week8：**:
 
-【英文】：小车爬山环境简介[MountainCarContinuous-V0](https://gym.openai.com/envs/MountainCarContinuous-v0/)  
+【英文】小车爬山环境简介[MountainCarContinuous-V0](https://gym.openai.com/envs/MountainCarContinuous-v0/)  
 【中文】小车爬坡作业问题[MountainCarContinuous-V0](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week8-MountainCarContinuous-V0%20-%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82%E4%B8%8E%E7%8E%AF%E5%A2%83.md)
+
+更多课程请关注我们：
+
+![](https://images.gitbook.cn/a94b23b0-31bb-11e9-bff5-05638cbe7e78)
+
