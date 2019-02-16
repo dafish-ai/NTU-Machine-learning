@@ -214,7 +214,7 @@
 
 【英文】Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4)
 
-【中文】Twitter文本情绪分类[Text Sentiment](./李弘毅-机器学习-作业/Week7-Text Sentiment Classification-作业要求)
+【中文】Twitter文本情绪分类[Text Sentiment](李弘毅-机器学习-作业/Week7-Text%20Sentiment%20Classification-作业要求.md)
 
 ---------------------------------------------------------
 ### Week 8
