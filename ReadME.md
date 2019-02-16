@@ -217,9 +217,7 @@
 **视频：**  
 	7.2 循环神经网络:[LSTM，GRU](https://www.bilibili.com/video/av10590361/?p=37)  
 
-**作业 Week7**: 
 
-Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4))
 
 ---------------------------------------------------------
 ### Week 8
