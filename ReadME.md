@@ -99,7 +99,7 @@
 	1.1 欢迎:[Welcome to Machine Learning](https://www.bilibili.com/video/av10590361/?p=1)  
 	1.2 为什么要学习机器学习？:[Why learning ？](https://www.bilibili.com/video/av10590361/?p=2)  
 **作业 Week1：**:  
-制定自己的学习计划，开通自己的学习博客，注册自己的github  
+[制定自己的学习计划，开通自己的学习博客，注册自己的github](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week1-CSDN%E5%8D%9A%E5%AE%A2%E4%B8%8EGithub%E5%88%9B%E5%BB%BA.md)
 
 ---
 
