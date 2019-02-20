@@ -151,7 +151,8 @@
 
 **作业 Week4：**:
 
-收入预测[Winner or Loser](https://ntumlta.github.io/2017fall-ml-hw2)  
+【原文】：面部情绪分类收入预测[Winner or Loser](https://ntumlta.github.io/2017fall-ml-hw2)  
+【中文】：面部情绪分类收入预测[Winner or Loser](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week4%20-%20%E6%94%B6%E5%85%A5%E9%A2%84%E6%B5%8B%20-%20Winner%20or%20Loser.md)
 
 ---------------------------------------------------------
 
