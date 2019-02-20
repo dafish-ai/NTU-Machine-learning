@@ -109,7 +109,7 @@
 **笔记：**[lecture2-note2](https://blog.csdn.net/dukuku5038/article/details/82503111)  
 **视频：**  
 	2.1 回归:[Regression](https://www.bilibili.com/video/av10590361/?p=3)  
-	2.2 回归 Demo:[Demo](https://www.bilibili.com/video/av9912938/?p=4)  
+	2.2 回归 Demo:[Demo](https://www.bilibili.com/video/av10590361/?p=4)  
 
 **第3节： 错误分析**  
 **课件：**[lecture3](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/3-Bias%20and%20Variance%20(v2).pdf)  
@@ -179,7 +179,7 @@
 	5.4  Keras Demo2：[Demo2](https://www.bilibili.com/video/av10590361/?p=19)  
 
 **作业 Week5：**:  
-（1）深度神经网络[Keras实现手写数字识别](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week%205%20-%20%20Keras%E5%AE%9E%E7%8E%B0%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.md)
+（1）深度神经网络[Keras实现手写数字识别](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week5%20-%20%20Keras%E5%AE%9E%E7%8E%B0%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.md)
 
 ---------------------------------------------------------
 
@@ -197,8 +197,8 @@
 	6.2 为什么要深度学习:[CNN](https://www.bilibili.com/video/av10590361/?p=22)  
 
 **作业 Week6：**:  
- 【英文】：面部情绪分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html))  
- 【中文】：面部情绪分类[Image Classification](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week6%20-%20Image%20Sentiment%20Classification%20-%20%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82.md)
+ 【英文】：面部情绪分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html)<br>
+ 【中文】：面部情绪分类[Image Classification](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week6-Image%20Sentiment%20Classification-%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82.md)
 
 ---------------------------------------------------------
 ### Week 7
