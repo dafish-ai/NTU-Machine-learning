@@ -13,16 +13,16 @@
 
 
 ## 重要一些的资源：
-1. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
-2. [深度学习斯坦福教程](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
-3. [廖雪峰python3教程](https://www.liaoxuefeng.com/article/001432619295115c918a094d8954bd493037b03d27bf9a9000)
-4. [github教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-5. [莫烦机器学习教程](https://morvanzhou.github.io/tutorials)
-6. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
-7. [机器学习代码修行100天](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
-8. [吴恩达机器学习新书：machine learning yearning](https://github.com/AcceptedDoge/machine-learning-yearning-cn)  
-9. [Dr.Wu 专栏(机器学习专题)](https://blog.csdn.net/dukuku5038/column/info/28363)  
-10. [Dr.Wu 专栏(深度学习专题)](https://blog.csdn.net/column/details/28693.html)  
+1. [Dr.Wu 博客71篇(机器学习、深度学习、强化学习、对抗网络)](https://me.csdn.net/dukuku5038)  
+2. [Dr.Wu 本人知乎](https://www.zhihu.com/people/Dr.Wu/activities)  
+3. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
+4. [深度学习斯坦福教程](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
+5. [廖雪峰python3教程](https://www.liaoxuefeng.com/article/001432619295115c918a094d8954bd493037b03d27bf9a9000)
+6. [github教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+7. [莫烦机器学习教程](https://morvanzhou.github.io/tutorials)
+8. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
+9. [机器学习代码修行100天](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
+10. [吴恩达机器学习新书：machine learning yearning](https://github.com/AcceptedDoge/machine-learning-yearning-cn)  
 11. [自上而下的学习路线: 软件工程师的机器学习)](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  
 
 ## 1. 前言
@@ -76,17 +76,14 @@
 - 周三、周六休息^_^  
 
 #### 6.作业提交指南：  
- 训练营的作业自检系统已经正式上线啦！只需将作业发送到训练营公共邮箱即可，知识星球以打卡为主，不用提交作业。以下为注意事项:  
-~~<0> 课程资料：[链接]() 密码：
-<1> 训练营代码公共邮箱：NTU-ML@xx.com  
-<2> [查询自己成绩:]()  
-<3> 将每周作业压缩成zip文件，文件名为“学号+作业编号”，例如："NTU-ML-010037-01.zip"  
-<4> 注意不要改变作业中的"方法名","类名"不然会检测失败！~~
+
 
 ## 7.学习安排
-一、整体学习脑图
+一、整体学习路线  
+![enter image description here](https://images.gitbook.cn/6cca4220-37df-11e9-8aed-c31cd798611f)  
+二、整体学习分解脑图
 ![](assets/markdown-img-paste-2019021415594594.png)
-二、具体学习计划
+三、具体学习计划
 ### week 1  
 **学习准备**  
 **知识点复习**  
