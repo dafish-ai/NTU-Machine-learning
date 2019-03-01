@@ -55,6 +55,9 @@
 **大学数学课本（从故纸堆里翻出来^_^）**  
 
 ### 3.编程工具
+
+#### 大鱼谷歌python训练营：  
+- [谷歌python](https://github.com/dafish-ai/Python-GoogleCourse)  
 #### 斯坦福资料：
 - [Python复习](http://web.stanford.edu/class/cs224n/lectures/python-review.pdf)  
 
@@ -95,8 +98,8 @@
 **视频：**  
 	1.1 欢迎:[Welcome to Machine Learning](https://www.bilibili.com/video/av10590361/?p=1)  
 	1.2 为什么要学习机器学习？:[Why learning ？](https://www.bilibili.com/video/av10590361/?p=2)  
-**作业 Week1：**:  
-[制定自己的学习计划，开通自己的学习博客，注册自己的github](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week1-CSDN%E5%8D%9A%E5%AE%A2%E4%B8%8EGithub%E5%88%9B%E5%BB%BA.md)
+**作业 Week1：**
+制定自己的学习计划，开通自己的学习博客，注册自己的github:[如操作手册](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week1-CSDN%E5%8D%9A%E5%AE%A2%E4%B8%8EGithub%E5%88%9B%E5%BB%BA.md)
 
 ---
 
@@ -115,7 +118,7 @@
 	2.3 错误从哪里来[Error Handle](https://www.bilibili.com/video/av10590361/?p=5)  
 
 **作业 Week2：**:  
-  纯python[线性回归](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf/)  	
+  纯python实现[线性回归](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf/)  	
 
 ---------------------------------------------------------
 
@@ -129,7 +132,7 @@
 	3.3梯度下降Demo2:[Gradient Descent Demo2](https://www.bilibili.com/video/av10590361/?p=8)  
 
 **作业 Week3：**:  
-  [PM2.5 预测](https://ntumlta.github.io/2017fall-ml-hw1/)  
+  [PM2.5回归预测](https://ntumlta.github.io/2017fall-ml-hw1/)  
 
 ---------------------------------------------------------
 
@@ -180,7 +183,6 @@
 （1）深度神经网络[Keras实现手写数字识别](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week5%20-%20%20Keras%E5%AE%9E%E7%8E%B0%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.md)
 
 ---------------------------------------------------------
-
 ### Week 6  
 **第10节：卷积神经网络(CNN)**
 **课件：**[lecture10](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/11-CNN.pdf)  
@@ -219,7 +221,6 @@ Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-
 【英文】：Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4)<br>
 【中文】：Twitter文本情绪分类[Text Sentiment](李弘毅-机器学习-作业/Week7-Text%20Sentiment%20Classification-作业要求.md)
 
-
 ---------------------------------------------------------
 ### Week 8
 **第14节：迁移学习**
@@ -241,6 +242,10 @@ Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-
 【中文】：小车爬坡作业问题[MountainCarContinuous-V0](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week8-MountainCarContinuous-V0%20-%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82%E4%B8%8E%E7%8E%AF%E5%A2%83.md)
 
 ---
+
+### 课程大作业：Kaggle 泰坦尼克号  
+
+![enter image description here](https://images.gitbook.cn/07517c70-3b3f-11e9-8e49-1583b35bc6e7)  
 
 ## 联系我们：<br>
 官网：[点击进入](http://www.dayufish.com/) <br>
