@@ -119,7 +119,7 @@
 	2.3 错误从哪里来[Error Handle](https://www.bilibili.com/video/av10590361/?p=5)  
 
 **作业 Week2：**:  
-  纯python实现[线性回归](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf/)  	
+  CEO的的利润预测[线性回归](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/week2/%E4%BD%9C%E4%B8%9A1.md)  	
 
 ---------------------------------------------------------
 
