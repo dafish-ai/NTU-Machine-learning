@@ -126,7 +126,7 @@
 
 ### week 3   
 **第4节： 梯度下降(Gradient Descent )**  
-**课件：**[lecture4](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/4-Gradient%20Descent%20(v2).pdf)  
+**课件：**[lecture4](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/李宏毅机器学习-课件/4-Gradient%20Descent%20(v2).pdf)  
 **笔记：**[lecture4-note4](https://blog.csdn.net/dukuku5038/article/details/83608873)  
 **视频：**  
 	3.1梯度下降:[Gradient Descent](https://www.bilibili.com/video/av10590361/?p=6)  
