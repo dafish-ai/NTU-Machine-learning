@@ -5,9 +5,10 @@
 1. [课程主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)  
 2. [课程笔记](https://blog.csdn.net/dukuku5038/article/details/82253966)  
 3. [课程视频](https://www.bilibili.com/video/av10590361?from=search&seid=8516959386096686045)  
-4. [环境配置Anaconda](https://github.com/learning511/Stanford-Machine-Learning-camp/tree/master)
-5. [作业介绍]()
-6. 比赛环境推荐使用Linux或者Mac系统，以下环境搭建方法皆适用:  
+4. [环境配置Anaconda](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/assets/Anaconda完全入门指南.md)  
+6. [Anaconda加速下载镜像](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/?C=M&O=D)  
+7. [作业](https://github.com/dafish-ai/NTU-Machine-learning/tree/master/李宏毅机器学习-作业)
+8. 比赛环境推荐使用Linux或者Mac系统，以下环境搭建方法皆适用:  
     [Docker环境配置](https://github.com/ufoym/deepo)  
     [本地环境配置](https://github.com/learning511/cs224n-learning-camp/blob/master/environment.md)
 
@@ -119,13 +120,13 @@
 	2.3 错误从哪里来[Error Handle](https://www.bilibili.com/video/av10590361/?p=5)  
 
 **作业 Week2：**:  
-  纯python实现[线性回归](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex1/ex1.pdf/)  	
+  纯python实现[CEO的的利润预测](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/week2/%E4%BD%9C%E4%B8%9A1.md)  	
 
 ---------------------------------------------------------
 
 ### week 3   
 **第4节： 梯度下降(Gradient Descent )**  
-**课件：**[lecture4](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/4-Gradient%20Descent%20(v2).pdf)  
+**课件：**[lecture4](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/李宏毅机器学习-课件/4-Gradient%20Descent%20(v2).pdf)  
 **笔记：**[lecture4-note4](https://blog.csdn.net/dukuku5038/article/details/83608873)  
 **视频：**  
 	3.1梯度下降:[Gradient Descent](https://www.bilibili.com/video/av10590361/?p=6)  
