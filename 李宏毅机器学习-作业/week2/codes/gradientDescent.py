@@ -13,9 +13,9 @@ def gradient_descent(X, y, theta, alpha, num_iters):
         #
         # Hint: X.shape = (97, 2), y.shape = (97, ), theta.shape = (2, )
 
-        error = np.dot(X, theta).flatten() - y
-        theta -= (alpha/m)*np.sum(X*error[:, np.newaxis], 0)
 
+        # ===========================================================
+        # Save the cost every iteration
         J_history[i] = compute_cost(X, y, theta)
 
     return theta, J_history
@@ -31,9 +31,10 @@ def gradient_descent_multi(X, y, theta, alpha, num_iters):
         # Instructions : Perform a single gradient step on the parameter vector theta
         #
 
-        error = np.dot(X, theta).flatten() - y
-        theta -= (alpha / m) * np.sum(X * error[:, np.newaxis], 0)
 
+        # ===========================================================
+        # Save the cost every iteration
         J_history[i] = compute_cost(X, y, theta)
 
     return theta, J_history
+    
