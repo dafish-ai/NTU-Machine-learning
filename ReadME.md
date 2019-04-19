@@ -146,7 +146,7 @@
 	4.1分类：概率生成模型:[Classification：Probabilistic Generative Model](https://www.bilibili.com/video/av10590361/?p=10)  
 
 **第6节：分类：逻辑回归（Logistic Regression）**  
-**课件：**[lecture6](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/6-Logistic%20Regression%20(v3).pdf)  
+**课件：**[lecture6](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/李宏毅机器学习-课件/6-Logistic%20Regression%20(v3).pdf)  
 **笔记：**[lecture6-note6](https://blog.csdn.net/dukuku5038/article/details/82585523)  
 **视频：**  
 	4.2分类：逻辑回归:[Logistic Regression](https://www.bilibili.com/video/av10590361/?p=11)   
