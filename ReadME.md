@@ -6,6 +6,7 @@
 2. [课程笔记](https://blog.csdn.net/dukuku5038/article/details/82253966)  
 3. [课程视频](https://www.bilibili.com/video/av10590361?from=search&seid=8516959386096686045)  
 4. [环境配置Anaconda](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/assets/Anaconda完全入门指南.md)  
+5. [Jupter NoteBook配置](http://baijiahao.baidu.com/s?id=1601883438842526311&wfr=spider&for=pc)  
 6. [Anaconda加速下载镜像](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/?C=M&O=D)  
 7. [作业](https://github.com/dafish-ai/NTU-Machine-learning/tree/master/李宏毅机器学习-作业)
 8. 比赛环境推荐使用Linux或者Mac系统，以下环境搭建方法皆适用:  
@@ -24,7 +25,7 @@
 8. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
 9. [机器学习代码修行100天](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
 10. [吴恩达机器学习新书：machine learning yearning](https://github.com/AcceptedDoge/machine-learning-yearning-cn)  
-11. [自上而下的学习路线: 软件工程师的机器学习)](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  
+11. [自上而下的学习路线: 软件工程师的机器学习](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  
 
 ## 1. 前言
 ![enter image description here](https://images.gitbook.cn/f76f1200-3d45-11e9-b80b-13b78e2a7517)Â
@@ -165,8 +166,8 @@
 **视频：**                                  
 	5.1 深度度学习简介:[Introduction to Deep learning](https://www.bilibili.com/video/av10590361/?p=13)  
 	5.2 反向传播算法：[Back Prppagation](https://www.bilibili.com/video/av10590361/?p=14))  
-
-**第8节：“Hello world” of Deep learning**
+	
+**第8节：“Hello world” of Deep learning**  
 **课件：**[lecture8](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/9-keras.pdf)  
 **笔记：**[lecture8-note8](https://blog.csdn.net/dukuku5038/article/details/83721330)  
 **视频：**                                  
