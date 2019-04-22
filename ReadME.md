@@ -6,7 +6,7 @@
 2. [课程笔记](https://blog.csdn.net/dukuku5038/article/details/82253966)  
 3. [课程视频](https://www.bilibili.com/video/av10590361?from=search&seid=8516959386096686045)  
 4. [环境配置Anaconda](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/assets/Anaconda完全入门指南.md)  
-5. [Jupter NoteBook配置](http://baijiahao.baidu.com/s?id=1601883438842526311&wfr=spider&for=pc)  
+5. [Jupyter NoteBook配置](http://baijiahao.baidu.com/s?id=1601883438842526311&wfr=spider&for=pc)  
 6. [Anaconda加速下载镜像](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/?C=M&O=D)  
 7. [作业](https://github.com/dafish-ai/NTU-Machine-learning/tree/master/李宏毅机器学习-作业)
 8. 比赛环境推荐使用Linux或者Mac系统，以下环境搭建方法皆适用:  
