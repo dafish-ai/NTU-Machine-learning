@@ -3,7 +3,8 @@
 
 ## 课程资料
 1. [课程主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)  
-2. [课程笔记](https://blog.csdn.net/dukuku5038/article/details/82253966)  
+2. [课程笔记](https://blog.csdn.net/dukuku5038/article/details/82253966) 
+3. [课件百度云下载](https://pan.baidu.com/s/1UKYLGte5SJ1EWxxAaUcKOw)  
 3. [课程视频](https://www.bilibili.com/video/av10590361?from=search&seid=8516959386096686045)  
 4. [环境配置Anaconda](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/assets/Anaconda完全入门指南.md)  
 5. [Jupyter NoteBook配置](http://baijiahao.baidu.com/s?id=1601883438842526311&wfr=spider&for=pc)  
