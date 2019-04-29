@@ -96,7 +96,7 @@
 **学习组队**  
 
 **第1节： 引言(Introduction)**  
-**课件：**[lecture1](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/1-introduction.pdf)  
+**课件：**[lecture1](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/1-introduction.pdf)  
 **笔记：**[lecture1-note1](https://blog.csdn.net/dukuku5038/article/details/82347021)  
 **视频：**  
 	1.1 欢迎:[Welcome to Machine Learning](https://www.bilibili.com/video/av10590361/?p=1)  
@@ -108,14 +108,14 @@
 
 ### week 2
 **第2节： 回归问题**  
-**课件：**[lecture2](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/2-Regression.pdf)  
+**课件：**[lecture2](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/2-Regression.pdf)  
 **笔记：**[lecture2-note2](https://blog.csdn.net/dukuku5038/article/details/82503111)  
 **视频：**  
 	2.1 回归:[Regression](https://www.bilibili.com/video/av10590361/?p=3)  
 	2.2 回归 Demo:[Demo](https://www.bilibili.com/video/av10590361/?p=4)  
 
 **第3节： 错误分析**  
-**课件：**[lecture3](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/3-Bias%20and%20Variance%20(v2).pdf)  
+**课件：**[lecture3](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/3-Bias%20and%20Variance%20(v2).pdf)  
 **笔记：**[lecture3-note3](https://blog.csdn.net/dukuku5038/article/details/82682855)  
 **视频：**  
 	2.3 错误从哪里来[Error Handle](https://www.bilibili.com/video/av10590361/?p=5)  
