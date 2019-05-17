@@ -24,4 +24,9 @@ train.csv：每个月前20天的完整资料。
 
 在测试数据集中，从剩下的10天资料中取样出连续的10小时为一笔，前9小时的所有观测数据当作feature，第10小时的PM2.5当作answer。一共取出240笔不重复的test data，请根据feature预测这240笔的PM2.5。
 
-![enter image description here](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/week3/pic/result.png)
+![enter image description here](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/week3/pic/result.png)  
+
+
+![具体数据和代码](https://github.com/dafish-ai/NTU-Machine-learning/tree/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/week3)
+
+
