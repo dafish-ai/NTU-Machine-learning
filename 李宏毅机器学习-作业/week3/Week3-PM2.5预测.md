@@ -27,6 +27,6 @@ train.csv：每个月前20天的完整资料。
 ![enter image description here](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/week3/pic/result.png)  
 
 
-![具体数据和代码](https://github.com/dafish-ai/NTU-Machine-learning/tree/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/week3)
+[具体数据和代码](https://github.com/dafish-ai/NTU-Machine-learning/tree/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/week3)
 
 
