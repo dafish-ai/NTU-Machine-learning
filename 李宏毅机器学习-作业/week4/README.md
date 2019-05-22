@@ -18,7 +18,7 @@ Barry Becker从1994年的人口普查数据库中进行了提取。
 
 ## Summary 总结
 
-本次作业执行 generative model 和 discriminative model。
+本次作业 参考概率模型generative model的代码实现 和 运行discriminative model 逻辑回归模型。
 
 - generative model 的困难点在于要假设资料的分配和变量之间的关系，如果资料越符合假设的分配效果也就越好
 - discriminative model 的难点则是在于如何选择超参数
