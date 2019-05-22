@@ -1,45 +1,47 @@
-import os, csv
+import csv, os
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-from Plot import plotDigits
 
+def makeDataProcessing(dfData):
+    dfDataX = dfData.drop(["education_num", "sex"], axis=1)
 
-def makeDataProcessing(Data):
-    listLabel = []
-    listImageVector = []
-    listImage = []
-    for index, strRow in enumerate(Data):
-        strLabel, strImageVector = strRow.split(",")
-        if index != 0:
-            arrayLabel = int(strLabel)
-            arrayImageVector = np.fromstring(strImageVector, dtype=int, sep=" ") # for dnn
-            arrayImage = arrayImageVector.reshape(48, 48, 1) # for cnn
+    listObjectColumnName = [col for col in dfDataX.columns if dfDataX[col].dtypes=="object"]
+    listNonObjectColumnName = [col for col in dfDataX.columns if dfDataX[col].dtypes!="object"]
 
-            listLabel.append(arrayLabel)
-            listImageVector.append(arrayImageVector)
-            listImage.append(arrayImage)
-    return listLabel, listImageVector, listImage
+    dfNonObjectData = dfDataX[listNonObjectColumnName]
+    dfNonObjectData.insert(2, "sex", (dfData["sex"]==" Male").astype(np.int)) # Male 1 Femal 0
 
+    dfObjectData = dfDataX[listObjectColumnName]
+    dfObjectData = pd.get_dummies(dfObjectData)
+
+    dfDataX = dfNonObjectData.join(dfObjectData)
+    dfDataX = dfDataX.astype("int64")
+    return dfDataX
 
 if __name__ == "__main__":
 
-    strProjectFolder = os.path.dirname(__file__)
-    strOutputPath = "02-Output/"
+    # read raw data
+    dfDataTrain = pd.read_csv(os.path.join(os.path.dirname(__file__), "train.csv"))
+    dfDataTest = pd.read_csv(os.path.join(os.path.dirname(__file__), "test.csv"))
 
-    DataTrain = open(os.path.join(strProjectFolder, "01-Data/train.csv"), "r")
-    DataTest = open(os.path.join(strProjectFolder, "01-Data/test.csv"), "r")
+    # show Training Size and Testing Size
+    intTrainSize = len(dfDataTrain)
+    intTestSize = len(dfDataTest)
 
-    listTrainLabel, listTrainImageVector, listTrainImage = makeDataProcessing(DataTrain)
-    np.savez(os.path.join(strProjectFolder, "01-Data/Train.npz"), Label=np.asarray(listTrainLabel), Image=np.asarray(listTrainImage))
+    # processing Training Label (Y)
+    dfDataTrainY = dfDataTrain["income"]
+    dfTrainY = pd.DataFrame((dfDataTrainY==" >50K").astype("int64"), columns=["income"]) # >50K 1, =<50K 0
 
-    _, listTestImageVector, listTestImage = makeDataProcessing(DataTest)
-    np.savez(os.path.join(strProjectFolder, "01-Data/Test.npz"), Image=np.asarray(listTestImage))
+    # processing Training and Testing data (X)
+    dfDataTrain = dfDataTrain.drop(["income"], axis=1)
+    dfAllData = pd.concat([dfDataTrain, dfDataTest], axis=0, ignore_index=True)
+    dfAllData = makeDataProcessing(dfData=dfAllData)
 
-    listShowId = [0, 299, 2, 7, 3, 15, 4]
-    listShowImage = [listTrainImage[i] for i in listShowId] 
-    listLabelX = ["Angry", "Disgust", "Fear", "Happy", "Sad", "Surprise", "Neutral"]
-    plotDigits(instances=listShowImage, intImagesPerRow=7, listLabelX=listLabelX, strProjectFolder=strProjectFolder, strOutputPath=strOutputPath)
+    # sperate All data to Training and Testing
+    dfTrainX = dfAllData[0:intTrainSize]
+    dfTestX = dfAllData[intTrainSize:(intTrainSize + intTestSize)]
 
-
-
+    # save Training data, Testing data and Training label
+    dfTrainX.to_csv(os.path.join(os.path.dirname(__file__), "X_train_my.csv"), index=False)
+    dfTestX.to_csv(os.path.join(os.path.dirname(__file__), "X_Test_my.csv"), index=False)
+    dfTrainY.to_csv(os.path.join(os.path.dirname(__file__), "Y_train_my.csv"), index=False)
