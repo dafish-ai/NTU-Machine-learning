@@ -187,7 +187,7 @@
 
 ---------------------------------------------------------
 ### Week 6  
-**第10节：卷积神经网络(CNN)**
+**第10节：卷积神经网络(CNN)**  
 **课件：**[lecture10](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/11-CNN.pdf)  
 **笔记：**[lecture10-note10](https://blog.csdn.net/dukuku5038/article/details/83735926)  
 **视频：**  
