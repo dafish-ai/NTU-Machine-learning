@@ -161,14 +161,14 @@
 
 ### Week 5     
 **第7节：深度学习简介(Introduction to Deep learning)**  
-**课件：**[lecture7](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/7-DL%20(v2).pdf)  
+**课件：**[lecture7](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/7-DL%20(v2).pdf)  
 **笔记：**[lecture7-note7](https://blog.csdn.net/dukuku5038/article/details/83217542)  
 **视频：**                                  
 	5.1 深度度学习简介:[Introduction to Deep learning](https://www.bilibili.com/video/av10590361/?p=13)  
 	5.2 反向传播算法：[Back Prppagation](https://www.bilibili.com/video/av10590361/?p=14) 
 	
 **第8节：“Hello world” of Deep learning**  
-**课件：**[lecture8](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/9-keras.pdf)  
+**课件：**[lecture8](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/8-BP.pdf)  
 **笔记：**[lecture8-note8](https://blog.csdn.net/dukuku5038/article/details/83721330)  
 **视频：**                                  
 	5.1 [DeepLearning Demo](https://www.bilibili.com/video/av10590361/?p=15)  
@@ -176,7 +176,7 @@
 	5.2  Keras Demo1：[Demo1](https://www.bilibili.com/video/av10590361/?p=17)  
 
 **第9节：深度学习技巧 Deep learning tips**  
-**课件：**[lecture9](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/10-DNN%20tip.pdf)  
+**课件：**[lecture9](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/10-DNN%20tip.pdf)  
 **笔记：**[lecture8-note9](https://blog.csdn.net/dukuku5038/article/details/83680923)  
 **视频：**                                  
 	5.3 [DeepLearning tips](https://www.bilibili.com/video/av10590361/?p=18)  
@@ -188,14 +188,14 @@
 ---------------------------------------------------------
 ### Week 6  
 **第10节：卷积神经网络(CNN)**  
-**课件：**[lecture10](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/11-CNN.pdf)  
+**课件：**[lecture10](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/11-CNN.pdf)  
 **笔记：**[lecture10-note10](https://blog.csdn.net/dukuku5038/article/details/83735926)  
 **视频：**  
 	6.1 卷积神经网络:[CNN](https://www.bilibili.com/video/av10590361/?p=21)  
 
 **第11节：为什么要深度学习（Why Deep)**
-**课件：**[lecture11](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/12-Why-deep.pdf)  
-**笔记：**[lecture11-note11]()  
+**课件：**[lecture11](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/12-Why-deep.pdf)  
+**笔记：**[lecture11-note11](https://blog.csdn.net/dukuku5038/article/details/83774169)  
 **视频：**  
 	6.2 为什么要深度学习:[CNN](https://www.bilibili.com/video/av10590361/?p=22)  
 
