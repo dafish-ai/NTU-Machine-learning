@@ -197,7 +197,7 @@
 **课件：**[lecture11](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/12-Why-deep.pdf)  
 **笔记：**[lecture11-note11](https://blog.csdn.net/dukuku5038/article/details/83774169)  
 **视频：**  
-	6.2 为什么要深度学习:[CNN](https://www.bilibili.com/video/av10590361/?p=22)  
+	6.2 为什么要深度学习:[Why Deep](https://www.bilibili.com/video/av10590361/?p=22)  
 
 **作业 Week6：**:  
  【英文】：面部情绪分类[Image Classification](https://ntumlta.github.io/ML-Assignment3/index.html)<br>
