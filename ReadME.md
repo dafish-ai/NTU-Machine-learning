@@ -32,7 +32,9 @@
 ![enter image description here](https://images.gitbook.cn/f76f1200-3d45-11e9-b80b-13b78e2a7517)Â
 ### 中文世界中最好的机器学习课程！
 
-李宏毅老师的机器学习和深度学习系列课程，是中文世界中最好！课程中有深入浅出的讲解和幽默生动的比喻（还有口袋妖怪哦）。关键一切都是中文的！（除了课件^_^）
+李宏毅老师的机器学习和深度学习系列课程，是中文世界中最好！课程中有深入浅出的讲解和幽默生动的比喻（还有口袋妖怪哦）。关键一切都是中文的！（除了
+
+^_^）
 
 
 本课程李宏毅老师的机器学习核心内容带学，作业讲解。主要包括：
@@ -204,13 +206,13 @@
  
 ---------------------------------------------------------
 ### Week 7
-**第12节：循环神经网络(RNN)**
+**第12节：循环神经网络(RNN)**  
 **课件：**[lecture12](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/13-RNN%20(v2).pdf)  
 **笔记：**[lecture12-note12](https://blog.csdn.net/dukuku5038/article/details/83830994)  
 **视频：**  
 	7.1 循环神经网络:[RNN](https://www.bilibili.com/video/av10590361/?p=36)  
 
-**第13节：循环神经网络（LSTM、GRU)**
+**第13节：循环神经网络（LSTM、GRU)**  
 **课件：**[lecture13](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E8%AF%BE%E4%BB%B6/13-RNN%20(v2).pdf)  
 **笔记：**[lecture13-note13](https://blog.csdn.net/dukuku5038/article/details/83870172)  
 **视频：**  
