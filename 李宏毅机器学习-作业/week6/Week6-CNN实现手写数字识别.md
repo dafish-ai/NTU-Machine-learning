@@ -50,5 +50,5 @@ xxxx     unsigned byte   ??               pixel
 .由[offset]我们可以看出真正的pixel是从0016开始的，一个int 32位，所以在读取pixel之前我们要读取4个 32 bit integer，也就是magic number, number of images, number of rows, number of columns. 当然，在这里使用struct.unpack_from()会比较方便.
 
 ### 算法实现  
-[代码答案]（https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/week6/CNN.py）  
+[代码答案](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/week6/CNN.py)
 
