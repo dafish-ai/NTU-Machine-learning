@@ -202,7 +202,7 @@
 	6.2 为什么要深度学习:[Why Deep](https://www.bilibili.com/video/av10590361/?p=22)  
 
 **作业 Week6：**:  
-卷积神经网络[CNN实现手写数字识别](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/week5/Week5-Keras%E5%AE%9E%E7%8E%B0%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.md)
+卷积神经网络[CNN实现手写数字识别](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/week6/Week6-CNN%E5%AE%9E%E7%8E%B0%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.md)
  
 ---------------------------------------------------------
 ### Week 7
