@@ -1,4 +1,4 @@
-# Week 6
+# Week 7
 
 
 ## Purpose: Text Sentiment Classification
@@ -50,7 +50,7 @@ BOW Model 预测为两具句子都为 0.47XXX 偏向负面。这点可以说明 
 ## File Stucture
 
 ```
-week6 
+week7
 |    README.md
 |    main.py
 |    Test.py
