@@ -219,11 +219,7 @@
 	7.2 循环神经网络:[LSTM，GRU](https://www.bilibili.com/video/av10590361/?p=37)  
 
 **作业 Week7：**:
-
-Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4))
-
-【英文】：Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-hw4)<br>
-【中文】：Twitter文本情绪分类[Text Sentiment](李弘毅-机器学习-作业/Week7-Text%20Sentiment%20Classification-作业要求.md)
+Twitter文本情绪分类[Text Sentiment](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/week7/README.md)
 
 ---------------------------------------------------------
 ### Week 8
@@ -239,11 +235,6 @@ Twitter文本情绪分类[Text Sentiment](https://ntumlta.github.io/2017fall-ml-
 **笔记：**[lecture15-note15](https://blog.csdn.net/dukuku5038/article/details/84810898)  
 **视频：**  
 	8.2 强化学习:[Reinforcement learning](https://www.bilibili.com/video/av10590361/?p=39)  
-
-**作业 Week8：**:
-
-【英文】：小车爬山环境简介[MountainCarContinuous-V0](https://gym.openai.com/envs/MountainCarContinuous-v0/)  
-【中文】：小车爬坡作业问题[MountainCarContinuous-V0](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/%E6%9D%8E%E5%BC%98%E6%AF%85-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E4%BD%9C%E4%B8%9A/Week8-MountainCarContinuous-V0%20-%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82%E4%B8%8E%E7%8E%AF%E5%A2%83.md)
 
 ---
 
